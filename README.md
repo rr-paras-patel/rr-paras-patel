@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paras Patel
 
-> **Accomplished System Architect/Manager with 14+ years of expertise in driving innovation and efficiency across application and infrastructure development.**
+> **Accomplished System Architect and Manager with 14+ years of expertise in driving innovation and efficiency across application and infrastructure development.**
 
 I specialize in creating scalable, high-performance solutions with a strong focus on DevOps, cloud automation, and AI-driven technologies. My passion lies in leading teams, building robust systems, and leveraging cutting-edge tools to deliver measurable impact.
 
